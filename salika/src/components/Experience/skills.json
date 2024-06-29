@@ -1,0 +1,46 @@
+[
+    {
+        "title": "React-Native",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Xcode",
+        "imageSrc": "skills/xcode.png"
+    },
+    {
+        "title": "Android Studio",
+        "imageSrc": "skills/android.png"
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "skills/typescript.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "React-Navigation",
+        "imageSrc": "skills/navigation.png"
+    },
+    {
+        "title": "Redux",
+        "imageSrc": "skills/redux.png"
+    },
+    {
+        "title": "Axios",
+        "imageSrc": "skills/axios.png"
+    }
+]
