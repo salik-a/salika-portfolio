@@ -1,0 +1,97 @@
+[
+    {
+        "title": "Setcard Flexlife",
+        "imageSrc": "projects/flexlife.png",
+        "skills": [
+            "React-Native",
+            "Redux",
+            "Axios",
+            "Firebase",
+            "React-Query",
+            "TypeScript",
+            "React Navigation"
+        ],
+        "sources": [
+            "https://play.google.com/store/apps/details?id=com.setcard.flexlife",
+            "https://apps.apple.com/us/app/setcardflexlife/id1665163090"
+        ]
+    },
+    {
+        "title": "Setcard Mobil",
+        "imageSrc": "projects/setcard.png",
+        "skills": [
+            "React-Native",
+            "Firebase",
+            "Axios",
+            "TypeScript",
+            "React-Query",
+            "Redux",
+            "React Navigation"
+        ],
+        "sources": [
+            "https://play.google.com/store/apps/details?id=com.setcard.nerede",
+            "https://apps.apple.com/us/app/setcard-mobil/id882408961"
+        ]
+    },
+    {
+        "title": "SETPOS",
+        "imageSrc": "projects/setpos.png",
+        "skills": [
+            "React-Native",
+            "React Navigation",
+            "Redux",
+            "TypeScript",
+            "React-Query",
+            "Firebase",
+            "Axios"
+        ],
+        "sources": [
+            "https://play.google.com/store/apps/details?id=com.setcard.mobilpos",
+            "https://apps.apple.com/tr/app/setpos/id6468772962"
+        ]
+    },
+    {
+        "title": "Muni Mobile App",
+        "imageSrc": "projects/muni.png",
+        "skills": [
+            "React-Native",
+            "Redux",
+            "React Navigation",
+            "Axios",
+            "JavaScript",
+            "Detox",
+            "Swift"
+        ],
+        "sources": [
+            "https://play.google.com/store/apps/details?id=com.muni.mobile",
+            "https://apps.apple.com/us/app/muni-spend-management/id1599044212"
+        ]
+    },
+    {
+        "title": "ToDo App",
+        "imageSrc": "projects/todo.png",
+        "skills": [
+            "React-Native",
+            "Lottie",
+            "Async Storage",
+            "JavaScript"
+        ],
+        "code": "https://github.com/salik-a/ToDoApp",
+        "sources": [
+            "https://play.google.com/store/apps/details?id=com.salika.todoapp"
+        ]
+    },
+    {
+        "title": "Rick and Morty App",
+        "imageSrc": "projects/rickmorty.png",
+        "skills": [
+            "React-Native",
+            "Lottie",
+            "Axios",
+            "Async Storage",
+            "JavaScript"
+        ],
+        "code": "https://github.com/salik-a/Rick_Morty_App",
+        "sources": []
+    }
+]
