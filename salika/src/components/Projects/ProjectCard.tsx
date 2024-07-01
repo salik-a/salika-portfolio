@@ -37,13 +37,13 @@ export const ProjectCard: React.FC<TProjectCard> = ({
       </ul>
       <div className={styles.links}>
         {code && (
-          <a href={code} className={styles.link}>
+          <a href={code} target="_blank" className={styles.link}>
             Github
           </a>
         )}
         {sources.map((source, id) => {
           return (
-            <a key={id} href={source} className={styles.link}>
+            <a key={id} target="_blank" href={source} className={styles.link}>
               {id === 0 ? "Play Store" : "App Store"}
             </a>
           );

@@ -22,7 +22,7 @@ const Contact = () => {
               src={getImageUrl("contact/linkedinIcon.png")}
               alt="LinkedIn icon"
             />
-            <a href="https://www.linkedin.com/in/alper-salik/">
+            <a href="https://www.linkedin.com/in/alper-salik/" target="_blank">
               linkedin.com/alper-salik
             </a>
           </li>
@@ -33,7 +33,9 @@ const Contact = () => {
             src={getImageUrl("contact/githubIcon.png")}
             alt="Github icon"
           />
-          <a href="https://github.com/salik-a">github.com/salik-a</a>
+          <a href="https://github.com/salik-a" target="_blank">
+            github.com/salik-a
+          </a>
         </li>
       </div>
     </footer>

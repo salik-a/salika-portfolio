@@ -13,7 +13,12 @@ const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Alper</h1>
         <h2 className={styles.subTitle}>React-Native Developer</h2>
         <div className={styles.buttonsContainer}>
-          <a href="mailto:myemail@email.com" className={styles.downloadBtn}>
+          <a
+            href="../../assets/resume.pdf"
+            className={styles.downloadBtn}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Download CV
           </a>
           <a href="#contact" className={styles.contactBtn}>
@@ -21,14 +26,14 @@ const Hero = () => {
           </a>
         </div>
         <div className={styles.innerContent}>
-          <a href="https://www.linkedin.com/in/alper-salik/">
+          <a href="https://www.linkedin.com/in/alper-salik/" target="_blank">
             <img
               className={styles.img}
               src={getImageUrl("contact/linkedinIcon.png")}
               alt="LinkedIn icon"
             />
           </a>
-          <a href="https://github.com/salik-a">
+          <a href="https://github.com/salik-a" target="_blank">
             <img
               className={styles.img}
               src={getImageUrl("contact/githubIcon.png")}
