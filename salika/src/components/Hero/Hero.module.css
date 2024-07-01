@@ -138,7 +138,7 @@
 
 @media screen and (max-width: 830px) {
     .container {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 
     .content {
@@ -153,9 +153,7 @@
 
 .heroImg {
     width: 50%;
-}
-
-.img {
     margin-bottom: 20px;
 }
+
 }

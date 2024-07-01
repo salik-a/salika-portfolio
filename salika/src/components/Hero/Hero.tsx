@@ -49,6 +49,13 @@ const Hero = () => {
               alt="github icon"
             />
           </a>
+          <a href="mailto:salikalper@gmail.com" target="_blank">
+            <img
+              className={styles.img}
+              src={getImageUrl("contact/emailIcon.png")}
+              alt="Email icon"
+            />
+          </a>
         </div>
       </div>
 
