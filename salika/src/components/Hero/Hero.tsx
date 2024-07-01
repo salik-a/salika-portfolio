@@ -2,6 +2,15 @@ import styles from "./Hero.module.css";
 import { getImageUrl } from "../../utils";
 
 const Hero = () => {
+  const onLinkClick = () => {
+    const pdfUrl = "../../assets/resume.pdf";
+    const link = document.createElement("a");
+    link.href = pdfUrl;
+    link.download = "resume.pdf"; // specify the filename
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
   return (
     <section className={styles.container}>
       <img
@@ -14,10 +23,10 @@ const Hero = () => {
         <h2 className={styles.subTitle}>React-Native Developer</h2>
         <div className={styles.buttonsContainer}>
           <a
-            href="../../assets/resume.pdf"
-            className={styles.downloadBtn}
-            target="_blank"
+            href="#"
             rel="noopener noreferrer"
+            onClick={onLinkClick}
+            className={styles.downloadBtn}
           >
             Download CV
           </a>
