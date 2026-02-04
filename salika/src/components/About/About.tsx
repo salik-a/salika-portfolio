@@ -8,12 +8,12 @@ const About = () => {
       <div className={styles.content}>
         <li className={styles.aboutItem}>
           <p>
-            I am a software developer who graduated from the Department of
-            Electrical and Electronics Engineering, advanced own career in the
-            field of software, and currently works as a React-Native Developer.
-            I am someone who likes to constantly improve myself and makes the
-            necessary effort to do my job well. Reach out if you'd like to learn
-            more!
+            I'm a passionate React Native Developer specializing in
+            cross-platform mobile applications. I work with React Native,
+            TypeScript, Redux, Expo, and Firebase to create seamless user
+            experiences. When I'm not coding, I'm exploring new technologies and
+            best practices to stay at the forefront of mobile development. Let's
+            build something amazing together!
           </p>
         </li>
         <img

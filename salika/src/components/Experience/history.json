@@ -1,25 +1,25 @@
 [
-    {
-        "role": "Mobile Developer",
-        "organisation": "Setcard",
-        "startDate": "Aug, 2022",
-        "endDate": "Present",
-        "experiences": [
-            "Setcard Flexlife: I did the development of the application from start to finish. I'm working on adding new features and updating them in stores.",
-            "Setcard Mobil(500k+users): I worked on the development of the new version of the Setcard mobile application.",
-            "Setcard SetPos: I wrote the E2E testswith Detox of the application."
-        ],
-        "imageSrc": "history/setcard.png"
-    },
-    {
-        "role": "Mobile Developer",
-        "organisation": "Muni",
-        "startDate": "December, 2021",
-        "endDate": "August, 2022",
-        "experiences": [
-            "I developed a mobile app for Muni's expense management platform and published it in the App Store and Play Store.",
-            "I used React-Native, Redux, React Navigation, Axios, Detox and Swift to develop a Muni mobile app"
-        ],
-        "imageSrc": "history/muni.png"
-    }
+  {
+    "role": "Mobile Developer",
+    "organisation": "Setcard",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Setcard Flexlife: Developed from scratch and continuously maintain it with new features and store updates.",
+      "Setcard Mobil: Contributed to the development of the new version.",
+      "Setcard SetPos: Actively developing and enhancing with new features and regular updates."
+    ],
+    "imageSrc": "history/setcard.png"
+  },
+  {
+    "role": "Mobile Developer",
+    "organisation": "Muni",
+    "startDate": "December, 2021",
+    "endDate": "August, 2022",
+    "experiences": [
+      "Developed and published Muni's expense management mobile application on both App Store and Play Store.",
+      "Built the application using React Native, Redux, React Navigation, Axios, Detox, and Swift."
+    ],
+    "imageSrc": "history/muni.png"
+  }
 ]
