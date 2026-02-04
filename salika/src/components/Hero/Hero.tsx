@@ -3,13 +3,14 @@ import { getImageUrl } from "../../utils";
 
 const Hero = () => {
   const onLinkClick = () => {
-    const pdfUrl = "../../assets/resume.pdf";
+    const pdfUrl = getImageUrl("resume.pdf");
+    // const pdfUrl = "../../assets/resume.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "resume.pdf"; // specify the filename
     document.body.appendChild(link);
     link.click();
-    document.body.removeChild(link);
+    // document.body.removeChild(link);
   };
   return (
     <section className={styles.container}>
